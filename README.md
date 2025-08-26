@@ -1,1 +1,1 @@
-# discusiones-texto
+# discusiones-textos
