@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# Entorno virtual
+venv/
+
+# Archivos temporales de Jupyter
+*.ipynb_checkpoints
