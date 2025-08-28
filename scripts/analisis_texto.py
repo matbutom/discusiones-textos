@@ -10,6 +10,7 @@ STOPWORDS = {
     "del", "se", "por", "con", "para", "es", "al", "como", "su", "lo"
 }
 
+
 def limpiar_texto(texto):
     """
     Limpia un texto:
@@ -27,6 +28,7 @@ def limpiar_texto(texto):
     palabras = [palabra for palabra in texto.split() if palabra not in STOPWORDS]
     return palabras
 
+
 def palabras_mas_comunes(texto, n=10):
     """
     Devuelve las n palabras más frecuentes de un texto.
@@ -36,6 +38,8 @@ def palabras_mas_comunes(texto, n=10):
     return conteo.most_common(n)
 
 # Ejemplo de uso cuando se ejecuta directamente
+
+
 if __name__ == "__main__":
-    texto_ejemplo = "Este es un ejemplo de texto. Este texto sirve para probar el script."
+    texto_ejemplo = "Este es un ejemplo. Sirve para probar el script."
     print(palabras_mas_comunes(texto_ejemplo, n=5))
