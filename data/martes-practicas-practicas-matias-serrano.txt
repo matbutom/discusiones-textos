@@ -1,0 +1,120 @@
+MATÍAS SERRANO:
+Gracias, Jorge. Muchas gracias. Gracias por el quórum. Agradezco mucho la posibilidad de poder compartir aquí el trabajo que estamos haciendo con Aarón, que comenzó principalmente este año. Pero está bien aspectado. Queremos comenzar.
+Si están en el mismo lado del algoritmo que nosotros, les habrá aparecido esta imagen en Instagram en la última semana. Y qué es de este primer seminario latinoamericano de procesamiento electrónico de datos, en el que aparece casi como si fueran dos cosmovisiones distintas. La máquina electrónica, la PCB. En contraste con este imaginario latinoamericano. Mirando con más detalle este afiche nos dimos cuenta de
+que fue realizado a un par de cuadros de aquí, porque dice la calle Huérfano. Así que un pequeño homenaje a ese momento. Hay otras personas que pueden hablar en mucha más profundidad de esta época de la cibernética en el Chile de la Unidad Popular, pero sí nos parece interesante cómo aparece este imaginario en esta época. Hay como un pequeño Acoplillo. Se resuelve bajándole un pelito al Fader. Cinco años para eso. Tenemos chistes. Bueno, vamos a partir primero hablando desde la cosmovisión y planteando un concepto más o menos paraguas de lo que estamos trabajando, que es el de cosmo-técnica, de Yujuy, un filósofo bien contemporáneo y actual. Quien define la cosmo-técnica como la unificación del orden moral y cósmico por medio de diversas actividades técnicas.
+Esto lo podemos entender con un ejercicio bien sencillo, que le invitamos a que piensen. ¿Qué pasa si yo les planteo la pregunta de qué entienden ustedes por cobre, carbón o silicio? ¿Se acordarán del colegio, de que estos tienen unos símbolos asociados y que están ordenados en una tabla? una experiencia más o menos traumática según su aproximación a esto. Si trabajas en un laboratorio químico, estos serían como, no sé, pensar los botones de su Illustrator, cositas que agarran y tiran y salen cosas. Estos son materiales fundamentales de lo que es la electrónica y que otra teórica también actual, Ingrid Bildy Merino, chilena, hizo en una profunda investigación que publicó en el año 2016, si no me equivoco, 17, Arquitectura de la Transferencia, cuando habla de estos materiales los plantea de la siguiente manera.
+
+Observando la utilización del cobre, el mundo se ha convertido en un espacio-tiempo que consiste, desde la perspectiva de la modernidad y la globalización, en técnicas de desplazamiento, territorialización. ocupación, apropiación y técnicas de comunicación. La investigación de Ingrid Bildy, que se la recomiendo mucho, explora estos elementos de la tabla periódica, no como nos lo presentan en el colegio, como estas cosas sirven para construir estas otras cosas, sino desde una genealogía de cómo influyeron en los movimientos geopolíticos y en la relación entre norte y sur global, que nos afecta directamente siendo un país productor de cobre. Se lo planteo esto. Para pensar en cómo la cosmovisión o cómo esta cosmo-técnica que tenemos desde Chile con la electrónica está desde un punto de vista medio, podríamos llamarlo subalterno, de exportadores y de consumidores de aparatos electrónicos.
+
+Entonces, como en este marco, es que nosotros nos empezamos a preguntar por qué, qué estaría pasando hoy.
+
+AARÓN MONTOYA:
+Entonces, cuando buscamos hoy en Internet, aparecen cosas así. Tratamos de encontrar imágenes feas a nuestro criterio. Salen pantallas, cerebros, libros, robots. De hecho, la búsqueda que hicimos fue qué es la IA en el dominio público. Y la verdad que para nosotros el hoy está alejado de esto porque somos gente que tiende a ser súper perna, que ve cómo fabricar las cosas que nos rodean, no solamente consumirlas. Y vamos con la siguiente. En verdad, nuestro Internet se ve más o menos así. Se ven por dos dólares, puedes hacer placas, el viejito pascuero detrás de esto, el chip de tus sueños vale 953 pesos. Estamos en un momento de mucha, mucha abundancia.
+
+Y tenemos cosas que quizás el día de mañana no existan, como energía eléctrica en nuestras casas. desde los enchufes, baterías recargables, que están de hecho acá adentro. Tenemos mucha maquinaria, entonces podemos arrendar fácilmente a China por unos microsegundos una máquina para que haga nuestro sueño, nuestras placas. Y podemos comprar en mercados mundiales componentes electrónicos que son físicos. Podemos automatizar computadores de Internet a través de los tiempos. Entonces, estamos en un momento súper raro. Y cuando le decimos hoy, este es nuestro hoy, como artista. pero también somos gente latinoamericana. Entonces estamos muy felices, vemos mucha comedia, vemos mucha belleza en la cultura cacharrera latinoamericana, en soluciones hechizas, en el sentido de que es un hechizo que te cautiva y es mágico,
+pero también de que es do it yourself.
+
+En otras partes se llama gambiarra, en Colombia le dicen cacharrero. Entonces son cosas que estamos constantemente estudiando y apreciando, como descontextualizar. un elemento, un material, y transformarlo en otra cosa.
+
+MATÍAS SERRANO:
+Me alegra eso, que las imágenes que aparecen son del libro Hechizos, por mientras para siempre, del trabajo de utilidad pública, se llama el colectivo. Bueno, también estamos hablando un poco de cómo va, qué es el hoy, cuál es la contingencia, y también estamos inmersos en un panorama de una cultura del arte sonoro y de la música experimental que también se apropia. De estas tecnologías, un poco desde el cacharrero. Esta es una imagen de una ficha de Tsunami, el festival de arte sonoro que ocurre en Valparaíso, que partió a finales de la primera década y que ya va a la edición, no sé, pasa a las 15.
+Esa obra, si no me equivoco, es de Pablo Saavedra, pero se ve un poco como la repropiación tecnológica también permite ir construyendo en un nuevo imaginario. Y hay una escena que lo trabaja desde lo sonoro también y desde la producción de una música experimental, entendiendola no como que reproduce los relatos de la sonoridad que en tanto ritmo, armonía, melodía, lo que uno espera cuando hablan de la música. Una nota aparte, pero yo estudié sonido en la Universidad de Chile, en la misma facultad que en música, y música para ellos era todo lo que existía desde los cantos gregorianos en adelante. Todo lo previo o todo lo que no era ahí no se consideraba música.
+
+AARÓN MONTOYA:
+De hecho, cuando se habla de música, tiende a llamarse música del siglo XVIII, de gente blanca en Alemania. Y para nosotros la música es algo mucho más íntimo y grande que eso. A continuación les vamos a mostrar, de hecho, click. Hasta el momento no hemos hablado nada de diseño, como palabra diseño. Aquí se empieza a aparecer y estamos viendo en un contexto también a nivel de investigación, a nivel de práctica artística, donde hay nuevos lugares emergentes donde se pueden publicar este tipo de avances, este tipo de arte, de este tipo de cacharreos que nos importan. Está la revista Leonardo de MIT, está la conferencia de Computational Creativity. En México pasó hace poco una conferencia conferencia que lleva mucho tiempo, que se llama Nuevas interfaces de expresión musical. E incluso hay journals ahora que se llaman Estrategias de diseño, pero el subtítulo es Diseño transdisciplinario. Yo creo que eso es lo que nos convoca como gente que estudió arte y que trabaja en escuelas de diseño y que sentimos que somos un aporte importante a la disciplina.
+
+MATÍAS SERRANO:
+Ah, sí, y esto también evidencia como un, también retomando las presentaciones que hubo antes, de que esto ya lleva un rato parte de los sistemas académicos, integrando parte de estas prácticas más experimentales y más transdisciplinares también.
+
+AARÓN MONTOYA:
+Queremos celebrar y compartir parte de nuestra investigación hoy día. Estas son gran parte de nuestros referentes. Mónica Abate es la directora del Magisterio de Artes Mediales de la Universidad de Chile, mentora de Matías. Claudia González, otra colega que trabaja con arte electrónico y ha representado a Chile a nivel mundial en el arte electrónico. Nicole Villiers salió en la puerta de las últimas noticias con ese instrumento que es el primero que funciona sin gravedad. Ella estudia arquitectura en la Universidad de Chile. Yo me puse ahí este bicho de madera que es los instrumentos que aprendí a tocar música de nuevo. Con estos instrumentos que son, le vemos mucha belleza en este tipo de máquina donde no solamente hay artesanía y hay una dificultad en hacerlo,
+sino que también encontramos una preciosa sensibilidad y una dimensión escultórica. Para nosotros eso es importante. No solamente una herramienta, sino que una escultura.
+
+MATÍAS SERRANO:
+Sí, por lo mismo aparece también referencia a lo que suceden. Objetos que habitualmente cuando hablamos de máquinas electrónicas son cajas negras que en muchos de estos casos aparecen o de forma como una caja transparente o ya totalmente desplegada. Ahí por ejemplo la obra de Claudia González tiene mucha resonancia con lo que hablaba de Ingrid Bild y al principio que es de una obra llamada Hidroscopía Loa en el que ocupa el mismo soporte de las placas electrónicas para ser grabado sobre el río, trazos del río Loa. Y forma parte de un circuito mucho más grande que va moviendo el agua a lo largo de la instalación. Y eso va generando también resistencia.
+
+Resistencia que es una palabra clave para los que estudiamos electrónica y que le estamos enseñando a nuestros estudiantes este año.
+
+AARÓN MONTOYA:
+En la siguiente diapositiva también queríamos celebrar El concepto de hacker, que tiene que ver, no con programar, de hecho, tiene que ver con hacer las cosas a tu pinta, salirte con la suya, y también tener la agencia de las cosas del mundo que te rodea. Nos acompaña hoy día, por ahí está Daniel Tirado, que es el organizador de este evento, que para nosotros es súper fundacional en nuestras vidas, Primavera Hacker, que es un seminario de open source y diseño. Esa es una palabra clave que encontramos en la investigación, que encontramos que Es un precioso eco de lo que está pasando ahora. De hecho, Primavera Hacker vuelve este año.
+
+Para más noticias, primaverahacker. org. Hay hackatones acá que estamos viendo de escuelas de arte. Hay todo un área preciosa de hack feminismo, de autoagencia reproductiva, de seguridad. Entonces, creemos que ese espíritu permea todo lo que hacemos y de las comunidades con las que colaboramos.
+
+MATÍAS SERRANO:
+Sí, bueno, agregar que este tipo de cultura hacker estuvo muy presente en la década pasada. Habían ciertos espacios independientes como, no sé, Santiago Makerspace, que fue mi primer espacio de trabajo también.
+
+AARÓN MONTOYA:
+Son de otra época.
+
+MATÍAS SERRANO:
+Bueno, eran espacios independientes que funcionaban un poco bajo su propia lógica y bajo su sistema de financiamiento, medio de mecenas también, pero donde se promovía la libertad y la experimentación. Y entre medio, bueno, empezaron a decaer porque empezó a absorber el mercado y la lógica de la innovación.
+La pandemia también afectó mucho al cierre de algunos de estos espacios. Y también las universidades han sido ahora los lugares donde se hacen estos laberintos de fabricación. Pero también eso puede plantear preguntas de qué tanto permea eso o qué. Una persona puede llegar y entrar a uno de estos espacios a construir su proyecto. Entonces, aún hay espacios vigentes. Ahí a la derecha aparece el Media Lab de México, que está en Ciudad de México, y que se mantiene vigente con ese tipo de prácticas y siguen haciendo cosas como de resistencia.
+
+AARÓN MONTOYA:
+Me atrevo a decir que la próxima diapositiva es la más importante. Dilo tú.
+
+MATÍAS SERRANO:
+Gracias. En ese sentido, tanto la cultura hacker como las problemáticas más quizá del principio de la presentación, nos plantean que la tecnología es un lugar en disputa y que no está dado.
+
+No somos solamente consumidores de tecnología, sino, o sea, lo somos, pero además la tecnología está transformando nuestra vida. Y al mismo tiempo, la tecnología tiene esta cosa maravillante, hipnótica, dopaminesca, en la que hay tensiones en las que somos como muy fértiles, muy permeables a que nos agarran el cerebro y nos meten, nos tratan como consumidores. Consume, consume. Entonces por eso para nosotros, sobre todo desde este enfoque más político, es que la apropiación o la búsqueda que nosotros hacemos desde la electrónica son posibilidades de imaginar. Por ejemplo, ¿qué significa en Chile hacer electrónica? Significa darle la vuelta a esta lógica improductiva que tenemos. Sacar cobre para afuera y comprar elementos. De vuelta.
+
+AARÓN MONTOYA:
+A continuación vamos a mostrar unas pocas obras de nuestras obras previas y las obras actuales. Voy a partir yo.
+Estos son los problemas que me gustan. Arriba a la izquierda pueden ver mi pantalla. Este es mi taller. Digo, quiero que exista un cero, quiero que exista un uno, quiero que exista un dos. Y después tengo que darme la lata, como sale abajo, de escribirlo. Todas estas lucecitas van a estar apagadas y estas van a ser. Y después cuando lo subo a una placa que tiene una resolución súper ordinaria de 12 por 8 pixeles, puedo crear algún día un 2. ¿Por qué? Porque eso no es fácil. Y no existe. Para las cosas que yo quiero. Yo quiero hacer instrumentos musicales, en lo que me dedico. Y para eso necesito desplegar información en la pantalla de la forma que yo quiero. De forma de bajo consumo, a mi pinta y todo lo que eso implica.
+
+Y para eso, obviamente, ese esfuerzo no es solamente útil para mí. También es importante para el resto. Y por eso este tipo de proyectos míos se convierten en herramientas que son bibliotecas. Tú lo puedes bajar y lo puedes consumir también. El siguiente, por ejemplo, es cómo se usa eso. Esta fue una práctica que hicimos con Andrés Martín, que es nuestro ayudante en taller. Saludos por aquí, está en el taller de Chora. Pueden ver que esto parte como un sueño, como quiero salirme del dispositivo, quiero tener un jack ochentero que me permita transmitir un protocolo de información que se llama MIDI. Y para eso lo hice en una protoboard, le saco una foto, después decidimos que tenía que tener ciertos botones y está toda esa ensalada de cables que ven ahí al medio.
+
+Y eso termina en un producto donde, oh sorpresa, al medio está la pantalla. En esa pantalla podemos desplegar la información. Entonces son procesos que son súper rumiantes, donde uno tiene que empezar no solamente a hacer la obra, sino que también a hacer su propio esclavo, su propio martillo. Y es un proceso al que me dedico y que tiene que ver a través de otros años con el software, como pueden ver.
+
+MATÍAS SERRANO:
+Bien, por mi parte, llevo algunos años trabajando más desde el hardware. Programó peor que Aarón, pero parece que me dedico a otro aspecto de la imagen electrónica. Y ahí puse dos imágenes que son talleres de electrónica en las que uno, máquinas que he diseñado, que son sintetizadores o máquinas pequeñitas. Tengo un par que se me quedó en la mochila, se me olvidó mostrársela.
+
+La pueden pasar a ver más adelante. Son máquinas que son como excusa. Son máquinas que están hechas de pequeños componentes, muy baratos. que en el taller nos juntamos, lo soldamos, lo ensamblamos y se lo llevan para la casa para seguir jugando. La mayoría de ellos son sintetizadores. La imagen de la izquierda es un taller que hicimos en el año 2019 en Platoedro, Medellín, junto a Bárbara Molina, diseñadora, que partimos nuestra primera época artística en la colectiva 22 Bits. Ya pospandemia empecé a trabajar solo, antes de Aarón. Y en el taller de electrones sónicos, que fue un programa de extensión de arce electrónica que se desarrolló en el MAC de Quinta Normal. Y que lo más importante o lo más relevante de esto es que primero uno comparte un aspecto del conocimiento que tiene que ver con cómo yo me fabricaría una máquina y se van un poco con ella para la casa, que uno en un taller no alcanza a aprender lo que se estudia en cinco años de electrónica.
+
+Pero sí son primero como una pérdida del miedo de lo que significa trabajar con estas cosas porque me involucro materialmente con ellas. Entonces se van con muchas preguntas de, ah, yo podría entonces encontrarme otras cosas, pedales, otro instrumento, robots, sí, en eso estamos. Pero también son excusas para conversar, que son muy, yo creo que es la parte más linda, son excusas para reunirse y dialogar sobre la tecnología. Y actualmente también lo estoy vinculando a mi práctica artística. Si pasan por el MAC de Quinta Normal van a encontrar la exposición Tiempo de Caimiento Temprano que produjimos junto al Núcleo de Artes Sonoras de la Universidad de Chile. Hice una pequeña instalación donde pequeñas conversaciones con puertas booleanas dentro de chips hechos de transistores gatillan el movimiento de unas pequeñas rueditas de cobre maltado.
+
+Pero a través del de un circuito que está puesto ahí, muy desplegado, que tiene una pequeña frase inscrita que dice los transistores, silicio, germán y polvo, declaman en campo electromagnético. Y eso tiene que ver con mi práctica artística que en este momento está tratando de aterrizar, literalmente, a volver a la Tierra, todas estas cosas de tecnología que están llenas de metáforas sobre lo virtual, la nube, como algo, una otra cosa, la naturaleza y el mundo.
+
+AARÓN MONTOYA:
+Una nota al pie es que nadie ha visto un electrón. Entonces esto igual se convierte fácilmente en teología. Hoy en día nos convoca, y esto es lo que queremos decir de lo que estamos haciendo ahora, los martes y los viernes de la mañana nos juntamos en la UDP, en diseño, con estudiantes de tercer y cuarto año, y hacemos circuitos electrónicos.
+Lo que viene a la izquierda es una cápsula que hizo un estudiante, sobre que vamos a mostrar ahora en el examen, en dos semanas más, y lo que está a la derecha son placas que diseñaron los estudiantes. Donde están los circuitos y aprendimos a trabajar en grupo, a repartir nuestras tareas de forma programática, que es muy estricto, muy poco humano. O sea, esto es implacable. Las cosas funcionan o no, están conectadas bien o no. Hay que pasar del modelado 3D a planificar un presupuesto, mandarlo a China, comprarlo por mayor. Son muchas habilidades. Estamos muy felices de esto. Y lo vamos a presentar ahora en dos semanas más en la UDP. Y a fin de año en diseño abierto, que el siguiente era un evento imperdible. Diseño abierto, diciembre, asistencia obligatoria.
+
+Este es el curso que hacemos ahora con Matías. Y el próximo semestre vamos a hacer uno de diseño de máquinas computacionales. Que es lo mismo, pero más programado.
+
+MATÍAS SERRANO:
+Sí, tomamos la estrategia de partir por el hardware, de que le perdieran miedo primero al material y ocupamos estrategias muy didácticas para enseñar esto, entendiendo que no tienen el bagaje de ingeniero, de cálculo, bla, bla. Pero llegaron a esto, igual. Estamos muy felices con eso. Estamos a dos semanas de que ya los puedan ver.
+
+AARÓN MONTOYA:
+De hecho, ya están fabricadas las placas en China y están viajando hacia nosotros. Y para finalizar, le traemos este taller abierto de que estamos pensando en, estas son las cosas que nos importan, los porotos, de granar porotos. Y hay esa mezcla de ese humor y de la síntesis granular, que es una técnica para sintetizar sonido.
+
+Y estamos haciendo nuestra primera colaboración, así como de producto, que es un sintetizador granular. Se vienen cositas. Ese es un pequeño adelanto.
+
+MATÍAS SERRANO:
+Se llama Grana. Acabo de ver que llegó a cero, perdón, el contador. Grana vinculada de granos porotos con síntesis granular y que lo hemos estado haciendo en pequeños recovecos de las clases, entre medio de las clases conversamos cinco minutos mientras estaban esperando a comprar el café o agarramos un rinconcito de la pizarra cuando están haciendo su trabajo autónomo para diseñar un sintetizador como si fuera diseñado en una servilleta. Estamos en proceso.
+
+AARÓN MONTOYA:
+Eso es suficiente. Si quieren seguir conversando con nosotros, tenemos toda esta red de taller y cosas así. Muchas gracias.
+
+MODERADOR:
+Preguntas, preguntas. Comentarios, preguntas.
+
+AARÓN MONTOYA:
+Reclamos.
+
+PÚBLICO 1:
+Gracias. Aaron, Matías, gracias por la presentación, estuvo muy buena. Y me gustaría pedirles, por favor, si pueden. Si nos pueden comentar un poco más de cómo el concepto de cosmo-técnica y esta invitación de Yujuy a pensar las técnicas desde cosmovisiones no hegemónicas, ustedes lo están bajando, implementando o aplicando en su trabajo artístico. Desde Latinoamérica.
+
+MATÍAS SERRANO:
+A ver, en el curso, ¿es preguntada en el curso o cómo lo estamos trabajando entre nosotros en nuestra práctica? A ver, el curso como tiene un enfoque quizás más, creo que el otro micrófono está acoplando. ¿Cierto? Sí, cinco años para eso. Bueno, el taller tiene un enfoque mucho más práctico, entonces eso forma parte de algo que no declaramos tan explícitamente.
+
+No está incluido todavía tanto dentro de la bibliografía, también considerando que, Son lecturas que están mucho más nuevas y que el libro salió, el que le mostramos artículos más técnicos, fue este año. O el año pasado, creo. La traducción al menos. Entonces, son parte como de los imaginarios de los que estamos abordando y en la medida en que haga más sentido como presentar cierto marco teórico mucho más preciso, los vamos a declarar. Pero sí, creo que los estudiantes pueden dar un poco cuenta de eso. De que tratamos de mostrar la mayor diversidad de prácticas tecnológicas desde mostrar proyectos de Kickstarter, que es como uno podría llegar a pensar de cómo un diseñador aborda el desarrollo tecnológico, hasta proyectos más punky, o proyectos que van más con la línea de lo lúdico, de la comedia.
+
+Incluso que a nosotros nos gustan mucho los sintetizadores y las máquinas musicales, también restringir un poco eso y buscar más referentes con la escultura. Y además cada vez que proponemos alguna de estas técnicas siempre lo situamos en desde donde lo está diciendo. Alguien de Dinamarca lo plantea de una forma, Brasil, Colombia, etc. Entonces la técnica empieza a parecer como un concepto medio tácito por ahora, pero
+está muy presente.
+
+AARÓN MONTOYA:
+Yo creo que algo que coincidimos mucho con Matías es nuestro gran cariño por estar acá y de no hacer cosas que no puedan hacerse acá. Eso para mí es súper importante. De hecho, para mí una manera de acercarme a la electrónica tiene que ver con que son fenómenos que son independientes de cualquier cosa humana. De hecho, son fenómenos físicos que nadie entiende.
+
+La gravedad nadie la entiende, la podemos medir con suerte. Y otra cosa muy bella que yo trato de hacer a través de mi viaje, he viajado mucho, de estudiar y tener frío y volver, es de que lo que hago me quepa en la mochila o de que lo pueda hacer en un cuaderno. Que si hay un computador, bien, si no hay, también bien. Entonces creo que esa manera flexible es donde resonamos y vemos esos ecos de cacharrismo, jaquería. Creo que ahí es donde vemos la belleza y vemos nuestra práctica.
+
+
