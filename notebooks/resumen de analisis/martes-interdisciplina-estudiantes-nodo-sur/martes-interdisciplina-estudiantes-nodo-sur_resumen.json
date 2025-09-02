@@ -1,0 +1,55 @@
+{
+  "axis_terms": [
+    "interdisciplina",
+    "interdisciplinar",
+    "interdisciplinario",
+    "trabajo interdisciplinario",
+    "cruce de disciplinas",
+    "colaboración entre disciplinas"
+  ],
+  "file": "../data/martes-interdisciplina-estudiantes-nodo-sur.txt",
+  "snippets": [
+    "cuidado post-trasplante holistico interdisciplinario continuo y que",
+    "bloque estudiantes - interdisciplina nodo sur para",
+    "interdisciplina nodo sur",
+    "informes visuales coordinacion interdisciplinaria hacia el personal",
+    "coordinacion interdisciplinaria",
+    "este proyecto",
+    "dia 1 bloque estudiantes - interdisciplina nodo sur",
+    "este proyecto demuestra que el diseno no es"
+  ],
+  "concepts": [
+    {
+      "concept": "interdisciplin nodo sur",
+      "freq": 1
+    },
+    {
+      "concept": "coordinacion interdisciplinario",
+      "freq": 1
+    }
+  ],
+  "clusters": [
+    {
+      "cluster": 0,
+      "n_snippets": 5,
+      "representative": "coordinacion interdisciplinaria",
+      "snippets": [
+        "cuidado post-trasplante holistico interdisciplinario continuo y que",
+        "informes visuales coordinacion interdisciplinaria hacia el personal",
+        "coordinacion interdisciplinaria",
+        "este proyecto",
+        "este proyecto demuestra que el diseno no es"
+      ]
+    },
+    {
+      "cluster": 1,
+      "n_snippets": 3,
+      "representative": "interdisciplina nodo sur",
+      "snippets": [
+        "bloque estudiantes - interdisciplina nodo sur para",
+        "interdisciplina nodo sur",
+        "dia 1 bloque estudiantes - interdisciplina nodo sur"
+      ]
+    }
+  ]
+}

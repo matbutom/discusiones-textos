@@ -1,0 +1,68 @@
+{
+  "axis_terms": [
+    "interdisciplina",
+    "interdisciplinar",
+    "interdisciplinario",
+    "trabajo interdisciplinario",
+    "cruce de disciplinas",
+    "colaboración entre disciplinas"
+  ],
+  "file": "../data/martes-interdisciplina-estudiantes-camilo-paredes.txt",
+  "snippets": [
+    "es un proyecto",
+    "este proyecto",
+    "un proyecto",
+    "pero es un proyecto",
+    "bloque estudiantes - interdisciplina camilo paredes",
+    "interdisciplina camilo paredes lukas yunge",
+    "el proyecto",
+    "espacio fisico",
+    "bueno por supuesto este igual es un proceso",
+    "es un proyecto que se centra en una",
+    "un proyecto que mezcla elementos de neurociencia podriamos",
+    "este es un proyecto que trabajamos con un",
+    "dia 1 bloque estudiantes - interdisciplina camilo paredes",
+    "el proyecto es en si una exploracion de",
+    "nosotros entendemos mucho este proyecto como un sistema"
+  ],
+  "concepts": [
+    {
+      "concept": "bloque estudiant interdisciplina",
+      "freq": 2
+    },
+    {
+      "concept": "interdisciplina camilo paredes",
+      "freq": 1
+    }
+  ],
+  "clusters": [
+    {
+      "cluster": 1,
+      "n_snippets": 11,
+      "representative": "un proyecto",
+      "snippets": [
+        "es un proyecto",
+        "este proyecto",
+        "un proyecto",
+        "pero es un proyecto",
+        "el proyecto",
+        "bueno por supuesto este igual es un proceso",
+        "es un proyecto que se centra en una",
+        "un proyecto que mezcla elementos de neurociencia podriamos",
+        "este es un proyecto que trabajamos con un",
+        "el proyecto es en si una exploracion de"
+      ]
+    },
+    {
+      "cluster": 0,
+      "n_snippets": 4,
+      "representative": "dia 1 bloque estudiantes - interdisciplina camilo paredes",
+      "snippets": [
+        "bloque estudiantes - interdisciplina camilo paredes",
+        "interdisciplina camilo paredes lukas yunge",
+        "espacio fisico",
+        "dia 1 bloque estudiantes - interdisciplina camilo paredes"
+      ]
+    }
+  ]
+}

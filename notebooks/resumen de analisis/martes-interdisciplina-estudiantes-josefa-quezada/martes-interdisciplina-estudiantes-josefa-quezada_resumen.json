@@ -37,47 +37,7 @@
   ],
   "concepts": [
     {
-      "concept": "diseno especulativo",
-      "freq": 3
-    },
-    {
-      "concept": "espacio arquitectonico",
-      "freq": 2
-    },
-    {
-      "concept": "espacio abierto",
-      "freq": 2
-    },
-    {
-      "concept": "disciplina analogico",
-      "freq": 1
-    },
-    {
       "concept": "interdisciplina josefa quezado",
-      "freq": 1
-    },
-    {
-      "concept": "narrativa racional lineal",
-      "freq": 1
-    },
-    {
-      "concept": "narrativa racional",
-      "freq": 1
-    },
-    {
-      "concept": "combinacion espacio arquitectonico",
-      "freq": 1
-    },
-    {
-      "concept": "introduccion proyecto",
-      "freq": 1
-    },
-    {
-      "concept": "corazon proyecto musica",
-      "freq": 1
-    },
-    {
-      "concept": "espacio abierto dispuesto",
       "freq": 1
     }
   ],
